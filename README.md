@@ -1,0 +1,1 @@
+Hello, this repo made just for JAVA practice, on KARAZINA Course.
