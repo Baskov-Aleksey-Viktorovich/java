@@ -21,7 +21,7 @@
             <version>0.4.8</version>
         </dependency>
         <dependency>
-            <!--Залежність для Граф-Інтерфейсу.-->
+            <!--Залежність Відмалювання графіку.-->
             <groupId>org.jfree</groupId>
             <artifactId>jfreechart</artifactId>
             <version>1.0.19</version>
